@@ -51,6 +51,9 @@ In Power BI, multiple DAX measures were created to support analysis, including m
 - Approval rates vary across loan categories, providing a clear view of overall portfolio health.
 
 ---
+**Dashboard:**
+<img width="1198" height="674" alt="image" src="https://github.com/user-attachments/assets/a1d1cc7e-adf1-4453-ba9a-624a4757c3c5" />
+
 
 ### 🔴 Risk & Customer Analysis Dashboard
 **Purpose:** Analyze borrower risk and default behavior.

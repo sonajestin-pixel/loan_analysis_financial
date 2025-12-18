@@ -33,7 +33,7 @@ In Power BI, multiple DAX measures were created to support analysis, including m
 
 ## Dashboards
 
-### 🟢 Loan Overview Dashboard
+### Loan Overview Dashboard
 **Purpose:** High-level summary of the loan portfolio.
 
 **Includes:**
@@ -55,7 +55,7 @@ In Power BI, multiple DAX measures were created to support analysis, including m
 <img width="1198" height="674" alt="image" src="https://github.com/user-attachments/assets/a1d1cc7e-adf1-4453-ba9a-624a4757c3c5" />
 
 
-### 🔴 Risk & Customer Analysis Dashboard
+### Risk & Customer Analysis Dashboard
 **Purpose:** Analyze borrower risk and default behavior.
 
 **Includes:**
@@ -83,5 +83,8 @@ In Power BI, multiple DAX measures were created to support analysis, including m
 <img width="1121" height="610" alt="image" src="https://github.com/user-attachments/assets/b17027fc-ebc6-4c81-8cbf-2eceb978f96d" />
 
 
-## 🧠 Conclusion
+## Conclusion
 This project demonstrates an end-to-end financial analytics workflow, combining Excel-based data preparation with Power BI modeling and visualization to derive meaningful insights into loan risk and customer behavior.
+
+## Author
+**Name:**Sona Jestin **LinkedIn:**www.linkedin.com/in/sonajestin

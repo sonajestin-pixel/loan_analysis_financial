@@ -79,6 +79,9 @@ In Power BI, multiple DAX measures were created to support analysis, including m
 - Borrowers with stable employment and longer credit history show lower default rates.
 
 ---
+**Dashboard:**
+<img width="1121" height="610" alt="image" src="https://github.com/user-attachments/assets/b17027fc-ebc6-4c81-8cbf-2eceb978f96d" />
+
 
 ## 🧠 Conclusion
 This project demonstrates an end-to-end financial analytics workflow, combining Excel-based data preparation with Power BI modeling and visualization to derive meaningful insights into loan risk and customer behavior.

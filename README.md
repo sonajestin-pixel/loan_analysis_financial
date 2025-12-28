@@ -1,7 +1,7 @@
 # Loan Analysis – Financial Project (Excel + Power BI)
 
 ## Project Overview
-This project focuses on analyzing financial loan data to understand borrower behavior, credit risk, and loan default patterns. The analysis was performed using **Excel for data preparation** and **Power BI for data modeling, DAX calculations, and dashboard creation**. The dataset contains over 45,000 loan records.
+This project focuses on analyzing financial loan data to understand borrower behavior, credit risk and loan default patterns. The analysis was performed using **Excel for data preparation** and **Power BI for data modeling, DAX calculations, and dashboard creation**. The dataset contains over 45,000 loan records.
 
 ---
 

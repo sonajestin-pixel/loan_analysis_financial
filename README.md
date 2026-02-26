@@ -87,4 +87,5 @@ In Power BI, multiple DAX measures were created to support analysis, including m
 This project demonstrates an end-to-end financial analytics workflow, combining Excel-based data preparation with Power BI modeling and visualization to derive meaningful insights into loan risk and customer behavior.
 
 ## Author
-**Name:**Sona Jestin **LinkedIn:**www.linkedin.com/in/sonajestin
+**Name:**Sona Jestin 
+**LinkedIn:**www.linkedin.com/in/sonajestin

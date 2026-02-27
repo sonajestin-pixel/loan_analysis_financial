@@ -86,6 +86,19 @@ In Power BI, multiple DAX measures were created to support analysis, including m
 ## Conclusion
 This project demonstrates an end-to-end financial analytics workflow, combining Excel-based data preparation with Power BI modeling and visualization to derive meaningful insights into loan risk and customer behavior.
 
+---
+
+## Future Recommendations
+- Implement stricter approval criteria for applicants with high loan-to-income ratios and low credit scores to reduce default risk.
+- Introduce risk-based interest pricing to balance profitability and credit exposure across different borrower segments.
+- Increase focus on low-risk loan categories and high performing borrower segments to strengthen overall portfolio stability.
+- Incoporate additional risk indicators such as employment stability, credit history length and home ownership into the credit evaluation process.
+- Develop a predictive default risk model to proactively identify high-risk borrowers before loan approval.
+- Transform the analysis into an automated monitoring dashboard for continous tracking of portfolio health and early risk detection.
+
+  ---
+
+  
 ## Author
 **Name:**Sona Jestin 
 **LinkedIn:**www.linkedin.com/in/sonajestin
